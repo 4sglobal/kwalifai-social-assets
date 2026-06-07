@@ -1,0 +1,10 @@
+Copyright (c) 2026 4S Global, LLC. All rights reserved.
+
+These assets are owned by 4S Global, LLC and used exclusively under the
+Kwalifai brand (NMLS 2528067). They are made publicly accessible solely to
+support social media scheduling tools (Buffer, Later, Metricool, etc.) that
+require public image URLs. They may not be downloaded, modified, redistributed,
+or used by any third party for any purpose without prior written permission
+from 4S Global, LLC.
+
+Contact: admin@kwalifai.com
